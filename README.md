@@ -10,6 +10,10 @@ An automatic number plate recognizer in an unconstrained condition that consider
 https://user-images.githubusercontent.com/64632969/115339367-3cc1e700-a1c2-11eb-8f5a-088838b56e38.mp4
 
 
+Collaborators-
+1. <a href="https://github.com/Bharat-mtr"> Bharat Bansal</a>
+2. <a href="https://github.com/ujju20">Ujjawal Sharma</a>
+
 
 
 
